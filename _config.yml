@@ -13,10 +13,9 @@ title                    : "Khandaker Jafor Ahmed"
 title_separator          : "-"
 name                     : &name "Khandaker Jafor Ahmed"
 description              : &description "Academic portfolio of Khandaker Jafor Ahmed, interdisciplinary postdoctoral research fellow and ecologist studying climate, health, and population dynamics."
-url                      : https://khandaker-jafor.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://khandaker-jafor.github.io # The base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "khandaker-jafor/khandaker-jafor.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
